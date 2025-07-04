@@ -4,7 +4,7 @@
 <body>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Privacy Policy</b></span></h1>
 <p class="p2"><span class="s1">Last Updated: May 25, 2025</span></p>
-<p class="p2"><span class="s1">Thank you for using the ChineseTravel app (hereinafter referred to as "the App"). This Privacy Policy is intended to inform you about how we collect, use, store, and protect your personal information. Please read this Privacy Policy carefully before using the App.</span></p>
+<p class="p2"><span class="s1">Thank you for using the ChinaTravel·Learn app (hereinafter referred to as "the App"). This Privacy Policy is intended to inform you about how we collect, use, store, and protect your personal information. Please read this Privacy Policy carefully before using the App.</span></p>
 <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>1. Information We Collect</b></span></h2>
 <p class="p2"><span class="s1">The App does not collect any user personal information. We do not require you to register an account, and we do not collect your name, email address, phone number, or any other personally identifiable information.</span></p>
 <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>2. Local Data Storage</b></span></h2>
