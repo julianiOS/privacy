@@ -4,7 +4,7 @@
 <body>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Privacy Policy</b></span></h1>
 <p class="p2"><span class="s1">Last Updated: May 25, 2025</span></p>
-<p class="p2"><span class="s1">Thank you for using the Pulse~</span><span class="s2">豆</span><span class="s1"> app (hereinafter referred to as "the App"). This Privacy Policy is intended to inform you about how we collect, use, store, and protect your personal information. Please read this Privacy Policy carefully before using the App.</span></p>
+<p class="p2"><span class="s1">Thank you for using the Pulse·Heart Rate app (hereinafter referred to as "the App"). This Privacy Policy is intended to inform you about how we collect, use, store, and protect your personal information. Please read this Privacy Policy carefully before using the App.</span></p>
 <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>1. Information We Collect</b></span></h2>
 <p class="p2"><span class="s1">When you use the App, we may collect the following information:</span></p>
 <ul class="ul1">
