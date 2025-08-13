@@ -9,6 +9,7 @@
 <p class="p2"><span class="s1">The App does not collect any user personal information. We do not require you to register an account, and we do not collect your name, email address, phone number, or any other personally identifiable information.</span></p>
 <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>2. Local Data Storage</b></span></h2>
 <p class="p2"><span class="s1">The App only stores recordings data locally on your device. This data is not uploaded to any server or shared with any third party. You can delete all locally stored data at any time by uninstalling the App.</span></p>
+  <p class="p2"><span class="s1"> iCloud storage: If you enable the iCloud sync feature, your data will be stored in your iCloud account for synchronization across your multiple devices.</span></p>
 <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>3. Third-Party Libraries</b></span></h2>
 <p class="p2"><span class="s1">The App does not use any third-party libraries or services, so there is no collection or sharing of your data through third parties.</span></p>
 <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>4. Data Security</b></span></h2>
